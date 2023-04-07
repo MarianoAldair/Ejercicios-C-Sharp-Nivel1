@@ -80,7 +80,9 @@ Además, el equipo viene con un disco que permite almacenar 500 GB de informaci�
 6.2. Se dispone de una lista de 5 listas de números enteros separados entre ellos por ceros. Se pide determinar e informar:
 
 El número de grupo con mayor porcentaje de números impares respecto al total de números que forman el grupo.
+
 Informar cuántos grupos están formados por todos números ordenados de mayor a menor.
+
 6.3. Hacer un programa para recibir listas de números positivos que están separadas entre sí por un cero. El fin de la carga se notifica con un número negativo. Luego mostrar cuántos números tiene cada lista.
 
 7.1. Hacer un programa que solicite 10 números enteros y los guarde en un vector. Luego recorrer los elementos y determinar e informar cuál es el valor máximo y su posición dentro del vector.
@@ -88,18 +90,27 @@ Informar cuántos grupos están formados por todos números ordenados de mayor a
 7.2. Hacer un programa que solicite 10  números enteros y los guarde en un vector. Luego recorrer ese vector para calcular el promedio. Mostrar por pantalla los valores que son mayores al promedio.
 
 7.3. Hacer un programa que solicite una cadena de caracteres y dos caracteres sueltos (tres ingresos). El programa deberá generar una cadena donde todas las ocurrencias del primer carácter dado hayan sido reemplazadas por el segundo. Mostrar el resultado en pantalla. Ejemplo:
+
 CADENA FUENTE: “La mar estaba serena"
+
 CARÁCTER 1: ‘a’ CARÁCTER 2: ‘i’
+
 CADENA RESULTADO: “Li mir estibi sereni"
 
 7.4. Una empresa comercializa 15 tipos de artículos y por cada venta realizada genera un registro con los siguientes datos:
+
 - Número de Artículo (1 a 15)
+
 - Cantidad Vendida 
 
 Puede haber varios registros para el mismo artículo y el último se indica con número de artículo igual a 0.
+
 Se pide determinar e informar:
+
 a) El número de artículo que más se vendió en total.
+
 b) Los números de artículos que no registraron ventas.
+
 c) Cuantas unidades se vendieron del número de artículo 10.
 
 8.1. Hacer una función llamada “producto” que reciba dos números enteros y que devuelva el producto de ambos. Luego hacer un programa que pida el precio de un artículo y la cantidad vendida y muestre por pantalla el monto total a pagar. Usar la función.
