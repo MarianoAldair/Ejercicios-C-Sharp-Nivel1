@@ -51,7 +51,7 @@ Hacer un programa que solicite el ingreso del importe total de la venta y la can
 
 4.3. Una importante marca de computadoras permite elegir cierta configuración del equipo a comprar. Para ello existe la siguiente escala de precios:
 
-                        i5 (1)	i7 (2)	i9 (3)
+                        i5 (1)i7 (2)i9 (3)
 
             8 RAM (1)	USD 800	USD 900	USD 1200
 
