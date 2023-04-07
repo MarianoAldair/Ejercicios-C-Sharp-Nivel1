@@ -1,6 +1,7 @@
 # Ejercicios-C-Sharp-Nivel1
 
 Enunciados Ejercicios C# Nivel 1:
+
 2.1. Hacer un programa para solicitar dos números y luego calcule y emita la suma en pantalla.
 
 2.2. Hacer un programa para solicitar por teclado un número y luego devolver su valor elevado al cubo.
@@ -99,5 +100,7 @@ c) Cuantas unidades se vendieron del número de artículo 10.
 8.4. Hacer una función de tipo void (porque no va a devolver nada) llamada “positivoNegativoCero” que reciba un número por valor y una variable por referencia. Que analice el número y escriba variable recibida por referencia con:
 
 a. 1 si el número es positivo.
+
 b. -1 si el número es negativo.
+
 c. 0 si el número es cero.
